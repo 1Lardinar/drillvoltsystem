@@ -1,0 +1,145 @@
+[
+  {
+    "id": "1",
+    "name": "Heavy Duty Excavator X2000",
+    "description": "Professional grade excavator designed for heavy construction work. Features advanced hydraulic systems and GPS tracking for optimal performance.",
+    "category": "Heavy Machinery",
+    "price": "Starting at $450,000",
+    "images": [
+      "/api/placeholder/400/300"
+    ],
+    "specifications": [
+      {
+        "key": "Weight",
+        "value": "20 tons"
+      },
+      {
+        "key": "Engine Power",
+        "value": "300 HP"
+      },
+      {
+        "key": "Bucket Capacity",
+        "value": "2.5 m³"
+      },
+      {
+        "key": "Max Digging Depth",
+        "value": "7.2 m"
+      }
+    ],
+    "tags": [
+      "excavator",
+      "heavy-duty",
+      "construction"
+    ],
+    "featured": true,
+    "visible": true,
+    "rating": 4.8,
+    "createdAt": "2025-07-31T17:40:20.808Z",
+    "updatedAt": "2025-07-31T17:40:20.809Z"
+  },
+  {
+    "id": "2",
+    "name": "Industrial Welding Station Pro",
+    "description": "State-of-the-art welding station with automated controls and safety features. Perfect for industrial manufacturing environments.",
+    "category": "Welding Equipment",
+    "price": "Starting at $15,000",
+    "images": [
+      "http://localhost/Drillvoltsystems.com/wp-content/uploads/2024/02/service_single6.jpg"
+    ],
+    "specifications": [
+      {
+        "key": "Welding Current",
+        "value": "400A"
+      },
+      {
+        "key": "Power Supply",
+        "value": "380V"
+      },
+      {
+        "key": "Duty Cycle",
+        "value": "100%"
+      },
+      {
+        "key": "Wire Feed Speed",
+        "value": "0.5-25 m/min"
+      }
+    ],
+    "tags": [
+      "welding",
+      "automated",
+      "safety"
+    ],
+    "featured": true,
+    "visible": true,
+    "rating": 4.9,
+    "createdAt": "2025-07-31T17:40:20.809Z",
+    "updatedAt": "2025-07-31T20:25:04.214Z"
+  },
+  {
+    "id": "3",
+    "name": "Safety Helmet with HUD",
+    "description": "Advanced safety helmet featuring augmented reality display, impact resistance, and integrated communication systems.",
+    "category": "Safety Equipment",
+    "price": "Starting at $299",
+    "images": [
+      "/api/placeholder/400/300"
+    ],
+    "specifications": [
+      {
+        "key": "Impact Rating",
+        "value": "ANSI Z89.1"
+      },
+      {
+        "key": "Battery Life",
+        "value": "8 hours"
+      },
+      {
+        "key": "Display Type",
+        "value": "AR HUD"
+      },
+      {
+        "key": "Communication Range",
+        "value": "500m"
+      }
+    ],
+    "tags": [
+      "safety",
+      "helmet",
+      "ar",
+      "communication"
+    ],
+    "featured": true,
+    "visible": true,
+    "rating": 4.7,
+    "createdAt": "2025-07-31T17:40:20.809Z",
+    "updatedAt": "2025-07-31T17:40:20.809Z"
+  },
+  {
+    "id": "pdmceudfb",
+    "name": "Gas Bottle",
+    "description": "avdvadvsdvaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
+    "category": "Industrial Tools",
+    "price": "",
+    "images": [
+      "/uploads/image-1753996860765-559182132.jpg"
+    ],
+    "specifications": [
+      {
+        "key": "vsvdsvdvs",
+        "value": "vsvsvsvss"
+      },
+      {
+        "key": "svsvdvvsvd",
+        "value": "vdvvsdvsvsdvs"
+      }
+    ],
+    "tags": [
+      "svssvsvedfbdbytnytnhn"
+    ],
+    "featured": true,
+    "visible": true,
+    "rating": 0,
+    "createdAt": "2025-07-31T21:22:20.599Z",
+    "updatedAt": "2025-07-31T21:22:20.599Z"
+  }
+]

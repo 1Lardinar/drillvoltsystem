@@ -1,0 +1,14 @@
+[
+  {
+    "id": "admin-1",
+    "email": "admin@industrialco.com",
+    "firstName": "Admin",
+    "lastName": "User",
+    "role": "admin",
+    "company": "IndustrialCo",
+    "phone": "+1 (555) 123-4567",
+    "isActive": true,
+    "createdAt": "2025-07-31T20:49:09.900Z",
+    "lastLoginAt": "2025-08-01T02:47:58.059Z"
+  }
+]

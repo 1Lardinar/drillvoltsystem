@@ -1,0 +1,66 @@
+[
+  {
+    "user": {
+      "id": "admin-1",
+      "email": "admin@industrialco.com",
+      "firstName": "Admin",
+      "lastName": "User",
+      "role": "admin",
+      "company": "IndustrialCo",
+      "phone": "+1 (555) 123-4567",
+      "isActive": true,
+      "createdAt": "2025-07-31T20:49:09.900Z",
+      "lastLoginAt": "2025-07-31T20:51:53.416Z"
+    },
+    "token": "05a05ab967fb4feb9c0c7c18dd3cc28660784ae4424791a299c05e9390165f2c",
+    "expiresAt": "2025-08-01T20:51:53.417Z"
+  },
+  {
+    "user": {
+      "id": "admin-1",
+      "email": "admin@industrialco.com",
+      "firstName": "Admin",
+      "lastName": "User",
+      "role": "admin",
+      "company": "IndustrialCo",
+      "phone": "+1 (555) 123-4567",
+      "isActive": true,
+      "createdAt": "2025-07-31T20:49:09.900Z",
+      "lastLoginAt": "2025-07-31T21:05:00.885Z"
+    },
+    "token": "f725380ce5d140683b044b28f37ac7a5b3e89e2461710db728239df7a9d0f320",
+    "expiresAt": "2025-08-01T21:05:00.887Z"
+  },
+  {
+    "user": {
+      "id": "admin-1",
+      "email": "admin@industrialco.com",
+      "firstName": "Admin",
+      "lastName": "User",
+      "role": "admin",
+      "company": "IndustrialCo",
+      "phone": "+1 (555) 123-4567",
+      "isActive": true,
+      "createdAt": "2025-07-31T20:49:09.900Z",
+      "lastLoginAt": "2025-08-01T02:38:32.925Z"
+    },
+    "token": "6202a3404969166c6501528f22e7542e2c2d93bdb581840884463877df244271",
+    "expiresAt": "2025-08-02T02:38:32.927Z"
+  },
+  {
+    "user": {
+      "id": "admin-1",
+      "email": "admin@industrialco.com",
+      "firstName": "Admin",
+      "lastName": "User",
+      "role": "admin",
+      "company": "IndustrialCo",
+      "phone": "+1 (555) 123-4567",
+      "isActive": true,
+      "createdAt": "2025-07-31T20:49:09.900Z",
+      "lastLoginAt": "2025-08-01T02:47:58.059Z"
+    },
+    "token": "0e4145a4f8e7c5def88a6accfdcb503e0b056903fc38cad363664042707047a0",
+    "expiresAt": "2025-08-02T02:47:58.060Z"
+  }
+]
